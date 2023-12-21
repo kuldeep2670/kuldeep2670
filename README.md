@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kuldeep2670](https://github.com/kuldeep2670)
-
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **kuldeepsingh2670@gmail.com**
 
