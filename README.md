@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kuldeepsingh2670@gmail.com**
 
-- 📄 Know about my experiences [https://kuldeep2670.github.io/assets/kuldeep_resume.pdf](https://kuldeep2670.github.io/assets/kuldeep_resume.pdf)
+- 📄 Know about my experiences [Resume](https://kuldeep2670.github.io/assets/kuldeep_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
