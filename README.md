@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Typescript**
 
-- 👨‍💻 All of my projects are available at [https://kuldeep2670.github.io/](https://kuldeep2670.github.io/)
+- 👨‍💻 All of my projects are available at [kuldeep2670.github.io/](https://kuldeep2670.github.io/)
 
 - 📫 How to reach me **kuldeepsingh2670@gmail.com**
 
